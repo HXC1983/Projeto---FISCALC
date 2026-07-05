@@ -16,7 +16,7 @@ As personas são representações específicas de usuários dentro do público-a
 |Lucas Mendes (Estudante)  | selecionar um módulo de Física desejado        | para que eu possa escolher o tema de estudo. |
 |Lucas Mendes (Estudante)  | inserir os dados e visualizar o resultado do cálculo     | resolver meus exercícios com mais facilidade. |
 |Lucas Mendes (Estudante)  | visualizar um gráfico do cálculo realizado    | entender o comportamento do fenômeno físico. |
-
+|Lucas Mendes (Estudante)  | salvar, editar e excluir meus cálculos   | que eu possa consultá-los posteriormente. |
 
 ## Requisitos
 
@@ -41,8 +41,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-003| O sistema deve ser acessível por meio dos principais navegadores modernos.
 |RNF-004| O sistema deve exigir autenticação para acesso às funcionalidades administrativas. |  BAIXA |
 |RNF-005| O sistema deve responder às operações de consulta em até 3 segundos em ambiente local. | MÉDIA |
-
-
 
 
 ## Diagrama de Casos de Uso
