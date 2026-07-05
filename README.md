@@ -1,4 +1,4 @@
-🧮 **FISCALC — Calculadora de Física**
+## FISCALC — Calculadora de Física ##
 
 
 Aplicação web para cálculos e simulações de Física, desenvolvida como projeto de aprendizado em ASP.NET MVC.
@@ -11,7 +11,7 @@ O FISCALC é um projeto pessoal que tem como objetivo o desenvolvimento de uma a
 Desenvolvido por: Hugo Xavier de Castro
 Curso: Tecnólogo em Análise e Desenvolvimento de Sistemas — PUC Minas
 
-🎯 Objetivos de Aprendizado
+Objetivos de Aprendizado
 
 Este projeto foi desenvolvido com foco nos seguintes conceitos:
 
