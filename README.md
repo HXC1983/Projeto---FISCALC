@@ -33,10 +33,10 @@ Nesta seção estão descritas as áreas da Física que serão contempladas na a
 
 | # | Módulo | Status |
 |---|--------|--------|
-| 1 | **Cinemática** — MRU e MRUV | ✅ Concluído |
-| 2 | **Dinâmica** — Leis de Newton | 🔄 Em desenvolvimento |
-| 3 | **Termodinâmica** | 📋 Planejado |
-| 4 | **Eletricidade** | 📋 Planejado |
+| 1 | **Cinemática** — MRU e MRUV |  Em desenvolvimento |
+| 2 | **Dinâmica** — Leis de Newton |  Em desenvolvimento |
+| 3 | **Termodinâmica** | Em desenvolvimento |
+| 4 | **Eletricidade** |  Em desenvolvimento |
 
 ---
 
