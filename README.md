@@ -16,7 +16,7 @@ O **FISCALC** é uma aplicação web desenvolvida com ASP.NET MVC (.NET 8) que p
 
 **2. Tecnologias Aplicadas**
 
-O FISCALC foi construído aplicando as seguintes tecnologias e práticas de desenvolvimento:
+O **FISCALC** foi construído aplicando as seguintes tecnologias e práticas de desenvolvimento:
 
 - Arquitetura MVC com ASP.NET Core
 - Autenticação e autorização com banco de dados próprio
