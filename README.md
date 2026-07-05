@@ -85,7 +85,7 @@ FISCALC/
 
 **6. Autenticação**
 
-O sistema de autenticação foi desenvolvido do zero, sem uso do ASP.NET Identity, com controle total sobre o fluxo de autenticação. Inclui:
+O sistema de autenticação foi implementado sem o ASP.NET Identity, com o objetivo de compreender o fluxo completo de autenticação — desde a criptografia de senha até o gerenciamento de sessão. Inclui:
 
 - Cadastro de usuário com senha criptografada (BCrypt)
 - Login com validação contra banco de dados
