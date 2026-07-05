@@ -26,4 +26,4 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-004| O sistema deve exigir autenticação para acesso às funcionalidades administrativas. |  BAIXA |
 |RNF-005| O sistema deve responder às operações de consulta em até 3 segundos em ambiente local. | MÉDIA |
 
-
+## Diagrama de Casos de Uso
