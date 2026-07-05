@@ -26,4 +26,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-004| O sistema deve exigir autenticação para acesso às funcionalidades administrativas. |  BAIXA |
 |RNF-005| O sistema deve responder às operações de consulta em até 3 segundos em ambiente local. | MÉDIA |
 
+## Personas
+
+As personas são representações específicas de usuários dentro do público-alvo. Segue abaixo as principais personas da aplicação:
+
+<img width="1200" height="600" alt="personas_fiscalc" src="https://github.com/user-attachments/assets/eac83a95-0c4b-4022-98cd-81b7b5fb2cd1" />
+
+
+
 ## Diagrama de Casos de Uso
