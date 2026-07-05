@@ -93,56 +93,8 @@ O sistema de autenticação foi desenvolvido do zero, sem uso do ASP.NET Identit
 
 ---
 
-## 📋 Funcionalidades
 
-### Módulo Cinemática
-- Cálculo de MRU (Movimento Retilíneo Uniforme)
-- Cálculo de MRUV (Movimento Retilíneo Uniformemente Variado)
-- Resultados: velocidade final, deslocamento e posição final
-- *(Em breve)* Gráfico de posição e velocidade em função do tempo
-- *(Em breve)* Animação do movimento
-
-### Autenticação
-- Cadastro de novo usuário
-- Login com e-mail e senha
-- Logout
-
----
-
-## Como Rodar Localmente
-
-### Pré-requisitos
-- Visual Studio 2022
-- .NET 8 SDK
-- SQL Server LocalDB
-
-### Passos
-
-```bash
-# Clone o repositório
-git clone https://github.com/HXC1983/FISCALC.git
-
-# Acesse a pasta
-cd FISCALC
-
-# Restaure as dependências
-dotnet restore
-
-# Configure a string de conexão em appsettings.json
-# "ConnectionStrings": {
-#   "DefaultConnection": "Server=(localdb)\\mssqllocaldb;Database=FiscalcDb;Trusted_Connection=True;"
-# }
-
-# Execute as migrations
-dotnet ef database update
-
-# Rode o projeto
-dotnet run
-```
-
----
-
-## 📚 Evolução do Projeto
+**7. Evolução do Projeto**
 
 ### Fase 1 — Base da aplicação
 - [ ] Criação de projeto ASP.NET MVC do zero
@@ -159,7 +111,7 @@ dotnet run
 
 ---
 
-## 📄 Licença
+## Licença
 
 Este projeto está sob a licença MIT.
 
