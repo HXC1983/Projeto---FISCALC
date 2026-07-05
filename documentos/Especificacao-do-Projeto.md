@@ -15,7 +15,7 @@ As personas são representações específicas de usuários dentro do público-a
 |Lucas Mendes (Estudante)  | me cadastrar e fazer login no sistema        | acessar módulos de Física. |
 |Lucas Mendes (Estudante)  | selecionar um módulo de Física desejado        | para que eu possa escolher o tema de estudo. |
 |Lucas Mendes (Estudante)  | inserir os dados e visualizar o resultado do cálculo     | resolver meus exercícios com mais facilidade. |
-
+|Lucas Mendes (Estudante)  | visualizar um gráfico do cálculo realizado    | entender o comportamento do fenômeno físico. |
 
 
 ## Requisitos
