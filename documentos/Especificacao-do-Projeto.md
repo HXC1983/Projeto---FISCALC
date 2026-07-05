@@ -5,3 +5,7 @@ Nesta seção é apresentada uma visão geral das técnicas e ferramentas utiliz
 ## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+
+|ID    | Descrição do Requisito  | Prioridade |
+|------|-----------------------------------------|----|
+|RF-001| O sistema deve permitir a autenticação de usuários por meio de login.| ALTA |
