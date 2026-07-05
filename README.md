@@ -113,9 +113,7 @@ O sistema de autenticação foi implementado sem o ASP.NET Identity, com o objet
 ---
 
 **8. Documentação**
-<ol>
-<li> <a href="documentos/01 - Especificação do projeto.md"> Especificação do Projeto </a></li>    
-</ol>
+- [Especificação do Projeto](documentos/Especificacao-do-Projeto.md)
 
 ## Licença
 
