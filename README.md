@@ -10,3 +10,15 @@ O FISCALC é uma aplicação web desenvolvida com ASP.NET MVC (.NET 8) que permi
 
 Desenvolvido por: Hugo Xavier de Castro
 Curso: Tecnólogo em Análise e Desenvolvimento de Sistemas — PUC Minas
+
+🎯 Objetivos de Aprendizado
+
+Este projeto foi desenvolvido com foco nos seguintes conceitos:
+
+
+Arquitetura MVC com ASP.NET Core
+Autenticação e autorização com banco de dados próprio
+Integração com SQL Server via Entity Framework Core
+Criação de interfaces responsivas com Razor Views
+Visualização de dados com gráficos (Chart.js)
+Animações físicas com HTML5 Canvas
