@@ -57,5 +57,5 @@ Casos de uso:
 - Realizar Login;
 - Selecionar módulos;
 - Inserir dados dos exercícios;
-- Editar usuários;
-- Excluir usuários;
+- Gerenciar usuários;
+
