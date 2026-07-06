@@ -10,7 +10,7 @@ O **FISCALC** é uma aplicação web desenvolvida com ASP.NET MVC (.NET 8) que p
 
 **Desenvolvido por:** Hugo Xavier de Castro
 
-**Curso:** Tecnólogo em Análise e Desenvolvimento de Sistemas — PUC Minas
+**Curso:** Tecnólogo em Análise e Desenvolvimento de Sistemas/PUC Minas
 
 ---
 
