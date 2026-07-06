@@ -30,7 +30,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-002| O sistema deve permitir o cadastro de usuários.| ALTA |
 |RF-003| O sistema deve permitir visualizar, editar e excluir usuários.| ALTA |
 |RF-004| O sistema deve permitir a seleção do módulo ou área da Física.| ALTA |
-|RF-005| O sistema deve permitir salvar, visualizar, editar e excluir cálculos realizados.| ALTA |
+|RF-005| O sistema deve permitir inserir dados para realização dos cálculos.| ALTA |
+|RF-006| O sistema deve permitir gerar a representação gráfica dos resultados obtidos a partir das equações físicas.| ALTA |  
 
 ### Requisitos não funcionais
 
@@ -44,3 +45,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 
 ## Diagrama de Casos de Uso
+
+Atores:
+
+- Estudantes
+- Administrador
+
+Casos de uso:
+
+- Realizar Cadastrado;
+- Realizar Login;
+- Selecionar módulos;
+- Inserir dados dos exercícios;
+- Editar usuários;
+- Excluir usuários;
