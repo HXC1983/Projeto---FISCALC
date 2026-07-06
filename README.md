@@ -29,7 +29,7 @@ O **FISCALC** foi construído aplicando as seguintes tecnologias e práticas de 
 
 **3. Módulos**
 
-Nesta seção estão descritas as áreas da Física que serão contempladas na aplicação.
+Nesta seção estão descritas as *áreas* ou *módulos* da Física que serão contempladas na aplicação.
 
 | # | Módulo | Status |
 |---|--------|--------|
