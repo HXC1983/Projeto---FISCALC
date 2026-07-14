@@ -59,5 +59,6 @@ Casos de uso:
 - Inserir dados dos exercícios;
 - Gerenciar usuários;
 
-<img width="646" height="742" alt="Diagrama_Casos de Uso_FISCALC" src="https://github.com/user-attachments/assets/0b5cba17-8b1e-49df-8807-32795ae66aa4" />
+<img width="700" height="800" alt="diagrama_casos_uso_fiscalc" src="https://github.com/user-attachments/assets/276f4504-c575-4c91-b773-6a74d9b4b010" />
+
 
