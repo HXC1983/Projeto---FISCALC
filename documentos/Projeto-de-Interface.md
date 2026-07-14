@@ -16,4 +16,6 @@ O diagrama abaixo representa o fluxo completo de interação do usuário com o s
 
 ## Wireframes
 
+A seguir são apresentados os wireframes das telas principais do sistema. Para cada tela são indicados os requisitos funcionais (RF) e não funcionais (RNF) contemplados.
+
 <img width="1800" height="1560" alt="wireframes_fiscalc" src="https://github.com/user-attachments/assets/fcc22efb-6895-4b8c-aae5-9989352a07a3" />
