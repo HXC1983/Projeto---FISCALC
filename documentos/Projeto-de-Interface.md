@@ -12,4 +12,8 @@ O diagrama abaixo representa o fluxo completo de interação do usuário com o s
 
 <img width="2720" height="2080" alt="fluxo_navegacao_fiscalc" src="https://github.com/user-attachments/assets/ba0e288f-d7ff-425e-8cd5-f19971bda918" />
 
+-----
+
+## Wireframes
+
 <img width="1800" height="1560" alt="wireframes_fiscalc" src="https://github.com/user-attachments/assets/fcc22efb-6895-4b8c-aae5-9989352a07a3" />
