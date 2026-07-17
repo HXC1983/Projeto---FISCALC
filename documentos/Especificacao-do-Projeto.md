@@ -26,11 +26,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O sistema deve permitir a autenticação de usuários por meio de login.| ALTA |
-|RF-002| O sistema deve permitir o gerenciamento dos usuários cadastrados, podendo editar, alterar perfil e excluir.| ALTA |
-|RF-003| O sistema deve permitir a seleção do módulo ou área da Física.| ALTA |
-|RF-004| O sistema deve permitir inserir dados para realização dos cálculos.| ALTA |
-|RF-005| O sistema deve permitir gerar a representação gráfica dos resultados obtidos a partir das equações físicas.| ALTA |  
+|RF-001| O sistema deve permitir a realização de cadastro de usuários.| ALTA |
+|RF-002| O sistema deve permitir a autenticação de usuários por meio de login.| ALTA |
+|RF-003| O sistema deve permitir o gerenciamento dos usuários cadastrados, podendo editar, alterar perfil e excluir.| ALTA |
+|RF-004| O sistema deve permitir a seleção do módulo ou área da Física.| ALTA |
+|RF-005| O sistema deve permitir inserir dados para realização dos cálculos.| ALTA |
+|RF-006| O sistema deve permitir gerar a representação gráfica dos resultados obtidos a partir das equações físicas.| ALTA |  
 
 ### Requisitos não funcionais
 
