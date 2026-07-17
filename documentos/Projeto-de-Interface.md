@@ -34,3 +34,10 @@ O wireframe acima representa a tela inicial com link que leva a tela de cadastro
 
 O wireframe acima representa a tela de cadastro dos usuários. Requisitos atendidos: RF-02
 
+### Tela 3 - Home
+
+
+<img width="600" height="760" alt="wireframe_03_home" src="https://github.com/user-attachments/assets/31869370-d8ec-4f35-a4d8-6576c13bcb12" />
+
+O wireframe acima representa a tela de home da aplicação. Nessa tela será possível selecionar os módulos de Física.
+
