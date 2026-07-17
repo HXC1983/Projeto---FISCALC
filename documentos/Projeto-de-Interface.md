@@ -25,6 +25,12 @@ A seguir são apresentados os wireframes das telas principais do sistema. Para c
   
 <img width="600" height="760" alt="wireframe_01_login" src="https://github.com/user-attachments/assets/9484a9ca-cd2e-4d22-aaff-3d81744fda63" /> </div>
 
-O wireframe acima representa a tela inicial para cadastro e login dos usuários da aplicação e contempla os requisitos RF-01, RF-02 e RNF-03.
+O wireframe acima representa a tela inicial com link que leva a tela de cadastro e que permite a realização do login dos usuários da aplicação. Requisitos atendidos: RF-01 e RNF-03.
 
+### Tela 2 - Cadastro
+<div align = center>
+
+<img width="600" height="760" alt="wireframe_02_cadastro" src="https://github.com/user-attachments/assets/c8a5c902-6ae3-4faa-b719-147bbd1d3886" /> </div>
+
+O wireframe acima representa a tela de cadastro dos usuários. Requisitos atendidos: RF-02
 
