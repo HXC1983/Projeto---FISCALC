@@ -23,6 +23,6 @@ A seguir são apresentados os wireframes das telas principais do sistema. Para c
 ### Tela 1 - Login
 <div align = center>
   
-<img width="600" height="760" alt="wireframe_01_login" src="https://github.com/user-attachments/assets/e9cbd147-13fd-41d3-9419-    3c043123ee07"/>
+<img width="600" height="760" alt="wireframe_01_login" src="https://github.com/user-attachments/assets/9484a9ca-cd2e-4d22-aaff-3d81744fda63" />
 
 <\div>
