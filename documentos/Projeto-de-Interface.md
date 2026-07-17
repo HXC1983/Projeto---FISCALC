@@ -21,6 +21,6 @@ A seguir são apresentados os wireframes das telas principais do sistema. Para c
 <img width="1800" height="1560" alt="wireframes_fiscalc" src="https://github.com/user-attachments/assets/fcc22efb-6895-4b8c-aae5-9989352a07a3" />
 
 ### Tela 1 - Login
-
+<div align = center>
 <img width="600" height="760" alt="wireframe_01_login" src="https://github.com/user-attachments/assets/e9cbd147-13fd-41d3-9419-3c043123ee07" />
-
+<\div>
