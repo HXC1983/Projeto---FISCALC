@@ -46,4 +46,4 @@ O wireframe acima representa a tela de home da aplicação. Nessa tela será pos
 
 <img width="600" height="760" alt="wireframe_04_calculo" src="https://github.com/user-attachments/assets/6a7c7ca4-439d-40b1-806e-283b5b8e2dc2" /> </div>
 
-O wireframe acima representa a tela de cálculo da aplicação. Nessa tela será possível a realização dos cálculos relacionados ao tema escolhido pelos usuários na tela de módulo. Requisitos atendidos: RF- 004.
+O wireframe acima representa a tela de cálculo da aplicação. Nessa tela será possível a realização dos cálculos relacionados ao tema escolhido pelos usuários na tela de módulo. Requisitos atendidos: RF- 005.
