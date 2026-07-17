@@ -25,4 +25,4 @@ A seguir são apresentados os wireframes das telas principais do sistema. Para c
   
 <img width="600" height="760" alt="wireframe_01_login" src="https://github.com/user-attachments/assets/9484a9ca-cd2e-4d22-aaff-3d81744fda63" />
 
-<\div>
+
