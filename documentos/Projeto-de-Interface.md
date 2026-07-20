@@ -54,3 +54,10 @@ O wireframe acima representa a tela de cálculo da aplicação. Nessa tela será
 <img width="600" height="760" alt="wireframe_05_grafico" src="https://github.com/user-attachments/assets/dfb8f1a5-547c-4c69-afa0-dd19c3403c3b" /> </div>
 
 O wireframe acima representa a tela de gráfico da aplicação. Essa tela será gerada a partir dos dados da tela anterior. Requisitos atendidos: RF - 006.
+
+### Tela 6 - Gestão de usuários
+<div align = center>
+
+<img width="600" height="760" alt="wireframe_06_admin" src="https://github.com/user-attachments/assets/80757889-ef67-4947-b357-02044fa717f5" /> </div>
+
+O wireframe acima representa a tela de gestão de usuários. Apenas o administrador da aplicação terá acesso a essa tela. Requisitos atendidos: RF - 003.
