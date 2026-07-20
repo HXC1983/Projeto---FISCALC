@@ -60,4 +60,4 @@ O wireframe acima representa a tela de gráfico da aplicação. Essa tela será 
 
 <img width="600" height="760" alt="wireframe_06_admin" src="https://github.com/user-attachments/assets/80757889-ef67-4947-b357-02044fa717f5" /> </div>
 
-O wireframe acima representa a tela de gestão de usuários. Apenas o administrador da aplicação terá acesso a essa tela. Requisitos atendidos: RF - 003.
+O wireframe acima representa a tela de gestão de usuários. Apenas o administrador da aplicação terá acesso a essa tela. Requisitos atendidos: RF - 003 e RNF - 004.
