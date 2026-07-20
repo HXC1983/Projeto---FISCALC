@@ -49,5 +49,8 @@ O wireframe acima representa a tela de home da aplicação. Nessa tela será pos
 O wireframe acima representa a tela de cálculo da aplicação. Nessa tela será possível a realização dos cálculos relacionados ao tema escolhido pelos usuários na tela de módulo. A depender do tema estudado dentro da Física, algumas dessas telas terão um botão que irá gerar um gráfico. Requisitos atendidos: RF- 005.
 
 ### Tela 5 - Gráficos
+<div align = center>
+  
+<img width="600" height="760" alt="wireframe_05_grafico" src="https://github.com/user-attachments/assets/dfb8f1a5-547c-4c69-afa0-dd19c3403c3b" /> </div>
 
-O wireframe acima representa a tela de gráfico da aplicação. Essa tela será gerada a partir dos dados da tela anterior. Requisitos atendidos: 
+O wireframe acima representa a tela de gráfico da aplicação. Essa tela será gerada a partir dos dados da tela anterior. Requisitos atendidos: RF - 006.
